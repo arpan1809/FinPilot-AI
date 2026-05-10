@@ -1,4 +1,4 @@
-# **GenTaxAI 🇮🇳**
+# **FinPilot-AI 🇮🇳**
 
 **GenTaxAI** is an intelligent, conversational AI chatbot designed to demystify Indian tax law and investment regulations. It provides instant, accurate, and citation-backed answers using a powerful Retrieval-Augmented Generation (RAG) pipeline, making complex financial information easy for everyone — from individual taxpayers to business owners.
 
