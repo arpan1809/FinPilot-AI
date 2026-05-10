@@ -101,7 +101,7 @@ Raw PDF files (GST, Income Tax, SEBI) are extracted using `01_extract_pdfs.py`.
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/arpan1809/Gentaxai-V2.git
+git clone https://github.com/arpan1809/FinPilot-AI.git
 cd Gentaxai-V2
 ```
 
@@ -135,7 +135,7 @@ GROQ_API_KEY="your_api_key_here"
 
 # **USAGE**
 
-GenTaxAI has **two steps**:
+FinPilot-AI has **two steps**:
 1️⃣ Build the knowledge base
 2️⃣ Run the web server
 
